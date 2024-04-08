@@ -13,7 +13,7 @@ list_of_files = [".github/workflows/.gitkeep",
                  "src/pipeline/__init__.py",
                  "src/pipeline/training_pipeline.py",
                  "src/pipeline/prediction_pipeline.py",
-                 "src/utils/__init__.py"
+                 "src/utils/__init__.py",
                  "src/utils/utils.py",
                  "tests/unit/__init__.py",
                  "tests/integration/__init__.py",
