@@ -9,7 +9,7 @@ list_of_files = [".github/workflows/.gitkeep",
                  "src/components/model_trainer.py",
                  "src/components/model_evaluation.py",
                  "src/logger/logging.py",
-                 "src/exception/exception.py"
+                 "src/exception/exception.py",
                  "src/pipeline/__init__.py",
                  "src/pipeline/training_pipeline.py",
                  "src/pipeline/prediction_pipeline.py",
